@@ -11,6 +11,19 @@ The objective is to answer key business questions:
 * How much does each channel contribute to revenue growth?
 * At what point do marketing investments experience diminishing returns?
 * How accurately can future sales be predicted using marketing spend data?
+--
+## Project Objective
+
+The primary objective of this project was to build an interpretable Marketing Mix Modeling (MMM) framework capable of accurately predicting weekly sales while quantifying the impact of different marketing channels.
+
+Specific goals included:
+
+* Achieve a sales forecasting error below **4% MAPE**.
+* Model advertising carryover effects using **Adstock** transformations.
+* Capture **diminishing returns** through saturation curves.
+* Measure the influence of individual marketing channels on sales performance.
+* Compare multiple machine learning algorithms and select the most suitable model for MMM.
+* Generate response curves to support marketing budget allocation decisions.
 
 Using a combination of domain-specific feature engineering and machine learning, the final Ridge Regression model achieved:
 
@@ -143,6 +156,7 @@ Benefits include:
 * Produces stable coefficient estimates.
 * Maintains explainability for business stakeholders.
 * Achieved the highest predictive accuracy among all tested models.
+Among all evaluated models, Ridge Regression provided the best combination of predictive performance, stability, and business interpretability.
 
 ---
 
