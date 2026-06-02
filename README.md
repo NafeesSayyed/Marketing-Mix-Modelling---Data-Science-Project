@@ -195,6 +195,10 @@ The analysis showed that Google Ads and Instagram Ads offer the strongest sales 
 * Bayesian Marketing Mix Modeling
 * Confidence intervals for channel contributions
 * Interactive dashboard for scenario analysis
+<img width="1580" height="2790" alt="image" src="https://github.com/user-attachments/assets/86d4177b-b1e5-4b1d-9b7b-169b9bff2716" />
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/ff980b14-fec5-42d7-8e9f-2f9927317f1c" />
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/f2f1181b-5249-4aa8-816b-b4fd18f1c74b" />
+
 
 ---
 
