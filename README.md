@@ -11,7 +11,7 @@ The objective is to answer key business questions:
 * How much does each channel contribute to revenue growth?
 * At what point do marketing investments experience diminishing returns?
 * How accurately can future sales be predicted using marketing spend data?
---
+
 ## Project Objective
 
 The primary objective of this project was to build an interpretable Marketing Mix Modeling (MMM) framework capable of accurately predicting weekly sales while quantifying the impact of different marketing channels.
