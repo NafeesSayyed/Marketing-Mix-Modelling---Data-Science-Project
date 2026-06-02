@@ -45,7 +45,7 @@ Organizations invest heavily across multiple advertising channels such as Google
 * Seasonal demand patterns create additional complexity.
 
 Marketing Mix Modeling addresses these challenges by estimating the relationship between marketing investments and business outcomes while accounting for carryover effects, saturation, seasonality, and competitive pressure.
-Throgh Marketing Mix Modeling we can experiment where the next ruppee must be invested and its impact on sales before actually investing
+Through Marketing Mix Modeling we can experiment where the next ruppee must be invested and its impact on sales before actually investing
 ---
 
 ## Dataset
