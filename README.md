@@ -1,5 +1,5 @@
 # Marketing-Mix-Modelling---Data-Science-Project
-# Marketing Mix Modeling (MMM): Measuring Advertising Impact with Adstock, Saturation & Ridge Regression to predict future sales performance.
+# Marketing Mix Modelling (MMM): Measuring Advertising Impact with Adstock, Saturation & Ridge Regression to predict future sales performance.
 
 ## Overview
 
