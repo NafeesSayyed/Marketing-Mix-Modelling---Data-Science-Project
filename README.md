@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements a Marketing Mix Modeling (MMM) framework to quantify the impact of multiple advertising channels on sales performance. The model captures real-world marketing dynamics such as advertising carryover effects (Adstock), diminishing returns (Saturation), seasonality, promotional activities, and competitor influence.
+This project implements a Marketing Mix Modelling (MMM) framework to quantify the impact of multiple advertising channels on sales performance. The model captures real-world marketing dynamics such as advertising carryover effects (Adstock), diminishing returns (Saturation), seasonality, promotional activities, and competitor influence.
 
 The objective is to answer key business questions:
 
@@ -14,7 +14,7 @@ The objective is to answer key business questions:
 
 ## Project Objective
 
-The primary objective of this project was to build an interpretable Marketing Mix Modeling (MMM) framework capable of accurately predicting weekly sales while quantifying the impact of different marketing channels.
+The primary objective of this project was to build an interpretable Marketing Mix Modelling (MMM) framework capable of accurately predicting weekly sales while quantifying the impact of different marketing channels.
 
 Specific goals included:
 
