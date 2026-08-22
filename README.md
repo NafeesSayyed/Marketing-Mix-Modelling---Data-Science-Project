@@ -27,9 +27,9 @@ Specific goals included:
 
 Using a combination of domain-specific feature engineering and machine learning, the final Ridge Regression model achieved:
 
-* **R² Score:** 94.04%
-* **MAPE:** 3.86%
-* **RMSE:** 101,889
+* **R² Score:** 93.48%
+* **MAPE:** 3.95%
+* **RMSE:** 106,527
 * **Average Weekly Sales:** 2.34 Million
 
 The project demonstrates how marketing analytics can be combined with machine learning to support data-driven budget allocation and campaign planning decisions.
@@ -140,7 +140,7 @@ No random shuffling was performed.
 
 | Model                      |   R² Score |      MAPE |
 | -------------------------- | ---------: | --------: |
-| Ridge Regression           | **94.04%** | **3.86%** |
+| Ridge Regression           | **93.48%** | **3.95%** |
 | Multiple Linear Regression |     93.46% |     3.91% |
 | XGBoost                    |     86.21% |     5.36% |
 | SVR                        |     67.00% |     8.88% |
